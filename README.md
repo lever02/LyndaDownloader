@@ -1,4 +1,6 @@
 # LyndaDownloader
+<a href="https://medium.com/@lever02176/download-that-course-11655185b18d">Less than a minute read : The Story Behind</a>
+
 lynda course downloader
 
 to run the app all you need to do is
